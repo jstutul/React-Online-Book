@@ -1,0 +1,13 @@
+.cart{
+  width: 18rem;
+}
+.cart-container{
+    position: fixed;
+    /* top: 10; */
+    right: 14px;
+    padding: 5px;
+    background-color: #fffcfd;
+    border: 2px solid #fefffe;
+    width: 300px;
+    margin-top: 10px;
+}
